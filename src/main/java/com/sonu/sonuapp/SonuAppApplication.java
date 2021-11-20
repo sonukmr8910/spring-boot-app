@@ -5,9 +5,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
 public class SonuAppApplication {
-
-	public static void main(String[] args) {
-		SpringApplication.run(SonuAppApplication.class, args);
-	}
-
+    public static void main(String[] args) {
+        SpringApplication.run(SonuAppApplication.class, args);
+    }
 }
